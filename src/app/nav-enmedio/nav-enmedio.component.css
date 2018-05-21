@@ -1,0 +1,17 @@
+.estiloNavMedio{
+    font-weight: bold;
+    color: #499982;
+font-size: 1.5rem;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:rgb(199, 247, 232); 
+text-align: center;
+}
+
+.pad{
+padding-left: 0rem;
+padding-right: 0rem;
+
+}
+.accion:active{
+    background-color:rgb(85, 230, 247);
+}

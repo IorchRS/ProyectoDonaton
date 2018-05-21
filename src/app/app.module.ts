@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { BannerPComponent } from './banner-p/banner-p.component';
+import { NavEnmedioComponent } from './nav-enmedio/nav-enmedio.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    BannerPComponent
+    BannerPComponent,
+    NavEnmedioComponent
   ],
   imports: [
     BrowserModule
