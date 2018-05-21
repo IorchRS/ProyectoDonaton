@@ -1,0 +1,58 @@
+.fondo{
+    margin: 0rem;
+    padding: 0rem;
+    
+ }
+.ImgPrincipal{
+    max-width: 90rem;
+}
+.izquierda{
+    font-weight: bold;
+    color: #499982;
+font-size: 2rem;
+font-family: cursive;
+}
+
+.pequenaLogo{
+    max-width: 16rem;
+    display: inline;
+
+  
+}
+
+.padin{
+    padding-right: 0rem; 
+    padding-left: 0rem; 
+}
+.estilosMedio{
+    font-weight: bold;
+    color: #499982;
+font-size: 1.5rem;
+font-family: cursive;
+background-color:rgb(199, 247, 232); 
+}
+.hover:hover{
+    background-color:rgb(85, 230, 247);
+}
+.estiloRegistro{
+    padding: 0rem 0rem;
+    background-color:rgb(199, 247, 232); 
+    border-radius: 2rem;
+    padding-right: 0rem; 
+    padding-left: 0rem;
+    display: inline;
+}
+.margenBaner{
+    padding: 1.1rem 1rem 1rem 0rem;
+    height: 6rem;    
+}
+.estiloSalir:hover{
+    padding: 0rem 0rem;
+    background-color:rgb(212, 231, 233); 
+    border-radius: 2rem;
+    padding-right: 0rem; 
+ padding-left: 0rem;
+ display: inline;
+}
+
+
