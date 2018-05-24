@@ -4,12 +4,14 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { BannerPComponent } from './banner-p/banner-p.component';
 import { NavEnmedioComponent } from './nav-enmedio/nav-enmedio.component';
+import { FooterDonatonComponent } from './footer-donaton/footer-donaton.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     BannerPComponent,
-    NavEnmedioComponent
+    NavEnmedioComponent,
+    FooterDonatonComponent
   ],
   imports: [
     BrowserModule
